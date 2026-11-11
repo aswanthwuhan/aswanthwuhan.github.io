@@ -1,0 +1,23 @@
+# Dr. Aswanth Krishnan
+
+> First-year MD Pharmacology resident at K S Hegde Medical Academy, Mangaluru, Karnataka, India. Builds open-source medical education tools for pharmacology study, revision and accessible reading.
+
+## Person
+
+- [LinkedIn](https://www.linkedin.com/in/draswanth/): Professional profile of Dr. Aswanth Krishnan.
+- [GitHub](https://github.com/aswanthwuhan): Open-source repositories, including the projects listed below.
+
+## Medical education projects
+
+- [PharmaReader](https://aswanthwuhan.github.io/pharmareader/): Offline study reader with on-device TTS, pharma pronunciation, FSRS flashcards and the NMC syllabus map. GPL-3.0. [Source and downloads](https://github.com/aswanthwuhan/pharmareader)
+- [Pharmacards](https://aswanthwuhan.github.io/Pharma-Cards/): MD Pharmacology flashcards with FSRS spaced repetition, Rapid Fire recall and offline study on web/PWA, Windows, macOS and Android. [Source](https://github.com/aswanthwuhan/Pharma-Cards)
+- [BCBR Quiz App](https://bcbr-quiz-app.vercel.app/): Free question bank of 1000+ MCQs across all 23 assignments, plus flashcards, for the ICMR Basic Course in Biomedical Research (BCBR) exam. MIT. Web, Android and desktop. [Source](https://github.com/aswanthwuhan/BCBR-QUIZ-APP)
+
+## Developer tools
+
+- [OpenCode Slides Plugin](https://github.com/aswanthwuhan/opencode-slides-plugin): View, edit and comment on PowerPoint decks in a side panel of OpenCode Desktop, and send slides to the AI model.
+- [OpenReader on Android](https://github.com/aswanthwuhan/openreader-android): Run OpenReader, a self-hosted read-along document reader with TTS, on Android via Termux and proot.
+
+## Note
+
+These are independent educational projects, not institutional products or medical advice.
