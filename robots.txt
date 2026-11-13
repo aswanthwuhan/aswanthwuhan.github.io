@@ -3,3 +3,4 @@ Allow: /
 Sitemap: https://aswanthwuhan.github.io/sitemap.xml
 Sitemap: https://aswanthwuhan.github.io/pharmareader/sitemap.xml
 Sitemap: https://aswanthwuhan.github.io/Pharma-Cards/sitemap.xml
+Sitemap: https://aswanthwuhan.github.io/sitemap.txt
